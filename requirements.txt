@@ -15,5 +15,5 @@ pycparser==2.20
 requests==2.23.0
 soupsieve==2.0
 tinycss2==1.0.2
-urllib3==1.25.9
+urllib3==1.26.5
 webencodings==0.5.1
